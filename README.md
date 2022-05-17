@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vishalshete101
-- 👀 I’m interested in IT Technology and new things that going on in this field. 
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m explorer Vishal Shete
+- 👀 I’m interested in Software development and new things that going on in this field. 
+- 🌱 I’m currently learning Spring boot, AWS, React, Database.
+- 💞️ I’m looking to collaborate on Drop me a email.
 - 📫 How to reach me shetevishal1999@gmail.com
 
 <!---
